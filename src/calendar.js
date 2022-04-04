@@ -1,9 +1,9 @@
 /*
  * Taken from Angular-UI-Calendar
- * Version 1.0.2 + Changes to support resources
- * Source - https://github.com/BlairMcc/ui-calendar
- * https://github.com/angular-ui/ui-calendar
- * https://github.com/angular-ui/ui-calendar/pull/354/files
+ * Version 1.0.2 + resources support
+ * Fork with added feature - https://github.com/BlairMcc/ui-calendar
+ * Original - https://github.com/angular-ui/ui-calendar
+ * Inspiration - https://github.com/angular-ui/ui-calendar/pull/354/files
  * /
  
 /*
